@@ -1,0 +1,8 @@
+# Ignore the zipped source file
+*.zip
+
+# Ignore the unzipped directory
+dogs-vs-cats/
+
+# Ignore the structered data directories
+data/
