@@ -6,3 +6,6 @@ dogs-vs-cats/
 
 # Ignore the structered data directories
 data/
+
+# Ignore model because of large size
+model.h5
