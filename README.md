@@ -44,7 +44,7 @@ The model was trained for 20 epochs, and the training progress was logged. The t
 
 ## Model and Plot
 
-The trained model was saved; however, due to its large size (>100MB), it is not included in this repository. Instead, a plot of the validation and training accuracy is provided in the repository as `plot.jpg`. You can refer to this image to visualize the training progress and the model's performance.    
+The trained model was saved; however, due to its large size (>100MB), it is not included in this repository. Instead, a plot of the validation and training accuracy is provided in the repository as `plot.jpg`. You can refer to this image to visualize the training progress and model's performance.    
 ![alt text](https://raw.githubusercontent.com/Rudrransh17/Dogs-vs-Cats-Classifier/main/plot.jpg)
 
 ## Conclusion
